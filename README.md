@@ -15,7 +15,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 Table of Contents
 =================
 
-   * [Major Cloud Providers' Always-Free Limits](#major-cloud-providers)
+   * [Major Cloud aroviders' Always-Free Limits](#major-cloud-providers)
    * [Cloud management solutions](#cloud-management-solutions)
    * [Analytics, Events and Statistics](#analytics-events-and-statistics)
    * [APIs, Data and ML](#apis-data-and-ml)
@@ -954,7 +954,7 @@ Table of Contents
 
 **[⬆ back to top](#table-of-contents)**
 
-## PaaS
+## PaaS🌟🌟🌟
 
   * [anvil.works](https://anvil.works) - Web app development with nothing but Python. Free tier with unlimited apps.
   * [appharbor.com](https://appharbor.com/) — A .Net PaaS that provides 1 free worker
