@@ -988,6 +988,7 @@ Table of Contents
   * [mogenius](https://mogenius.com/) - A code-to-cloud platform to easily deploy any service, from static website to advanced microservice architectures. mogenius comes with fully managed hyper-scaling cloud resources, Kubernetes, CI/CD and security from Cloudflare. Free tier includes 0.5 CPU core, 1 GB RAM, 5 GB traffic, 2 GB SSD persistent storage.
   * [WayScript](https://www.wayscript.com)- WayScript is an [internal developer platform (IDP)](https://blog.wayscript.com/what-is-an-internal-developer-platform-idp/) that allows software engineers to self-serve secure, cloud based (Docker + k8s) developer environments at any time.  Remove the need to get resources provisioned on a one off basis. Quickly build tools, apps, APIs, dashboards, schedule cron tasks and more. 100 hours of [free runtime per month](https://www.wayscript.com/pricing).
 
+🚨🚨🚨🚨🚨Vercel, [Render](https://render.com/), [Quovery](https://onboarding.qovery.com/onboarding/personalize), [Quoddi](https://app.qoddi.com/login/), [Appliku](https://appliku.com/#pricing), [back4app](https://www.back4app.com/pricing), [Northflank](https://northflank.com/pricing), [Cylic](https://www.cyclic.sh/pricing/), 
 **[⬆ back to top](#table-of-contents)**
 
 ## BaaS
